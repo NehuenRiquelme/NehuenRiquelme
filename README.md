@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola!! Mi nombre es Nehuen Riquelme, programador jr 👋🏼
+
+Conoce mas sobre mi perfil en mi [Portafolio 💼]()
 
 <!--
 **NehuenRiquelme/NehuenRiquelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
